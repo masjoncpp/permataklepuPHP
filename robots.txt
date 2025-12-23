@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://permataklepu.com/sitemap.xml
